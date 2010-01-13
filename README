@@ -1,0 +1,9 @@
+this app can be found at http://tookthishere.appspot.com
+
+questions: isaachawley@gmail.com
+
+This is a Google App Engine app. Requires the GAE sdk.
+
+You also need the Python Image Library (PIL).
+
+This is a demo project anyway, might as well make the source public =)
